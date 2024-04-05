@@ -1,3 +1,7 @@
+/******************
+ * merge sort using recursion 
+ * 
+*/
 #include <iostream>
 #include <vector>
 using namespace std;
